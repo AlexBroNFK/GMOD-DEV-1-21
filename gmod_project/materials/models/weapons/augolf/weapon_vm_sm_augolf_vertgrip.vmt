@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/augolf/grip_d"
+	"$bumpmap" "models/weapons/augolf/grip_n"
+	"$phongexponenttexture" "models/weapons/augolf/grip_m"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongalbedoboost" "1"
+	"$phongfresnelranges" "[.2 .2 1]"
+//	"$phongexponent" 5
+
+	"$basemapalphaphongmask" "1"
+	
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$envmaptint" 		"[.2 .2 .2]"
+
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+
+}

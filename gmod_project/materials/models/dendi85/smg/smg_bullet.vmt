@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/DenDi85/smg/kriss_albedo"
+	"$bumpmap" "models/DenDi85/smg/kriss_albedo_nrm"
+	//"$phongexponenttexture" "models/DenDi85/smg/kriss_albedo_exp"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongalbedotint" "1"
+	"$PhongFresnelRanges" "[ 2 4 30 ]"
+	"$envmap" "env_cubemap"
+	"$basemapalphaenvmapmask" "1"
+	"$envmapfresnel" "0.3"
+	"$envmaptint" "[ .03 .03 .03 ]"
+}
